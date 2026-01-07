@@ -1,5 +1,5 @@
-Flutter Notes App
 
+<<<<<<< HEAD
 Anggota Kelompok:
 - Rayna Dea Kirana XI PPLG 1 (24)
 - Adel Fitri Rahmasari XI PPLG 1 (03)
@@ -37,3 +37,5 @@ Langkah-langkah:
 2. Clone repository ini, masuk ke folder project, jalankan `flutter pub get` untuk install dependencies, lalu ketik `flutter run` untuk menjalankan aplikasi di emulator atau device Android yang terhubung.
 "# app_notes" 
 "# note_app" 
+=======
+>>>>>>> a3ae29719aa26092f5f9d6df9d75385ce10e4f8c
