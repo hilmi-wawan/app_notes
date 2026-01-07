@@ -39,3 +39,4 @@ Langkah-langkah:
 "# note_app" 
 =======
 >>>>>>> a3ae29719aa26092f5f9d6df9d75385ce10e4f8c
+"# app_note" 
