@@ -36,3 +36,4 @@ Langkah-langkah:
    
 2. Clone repository ini, masuk ke folder project, jalankan `flutter pub get` untuk install dependencies, lalu ketik `flutter run` untuk menjalankan aplikasi di emulator atau device Android yang terhubung.
 "# app_notes" 
+"# note_app" 
